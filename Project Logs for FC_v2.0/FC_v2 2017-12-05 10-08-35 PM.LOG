@@ -1,0 +1,5 @@
+Added Component: Designator=POWER(PWR_GND_PAD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+11.1V Pin=POWER-1
+Added Pin To Net: NetName=+3.3V Pin=POWER-2
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component POWER PWR_GND_PAD

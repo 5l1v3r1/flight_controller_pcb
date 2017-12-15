@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=+3.3V Pin=JP2-1
+Removed Pin From Net: NetName=+3.3V Pin=JP2-2
+Added Component: Designator=R7(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7983/444164-7983765.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7983/444164-7983765.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/444164-7941870.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/444164-7941870.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7941/444164-7941871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7941/444164-7941871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "RC Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0805 [2012 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1415081"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10KARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "To Be Advised"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7983/444164-7983765.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7983/444164-7983765.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/444164-7941870.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/444164-7941870.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7941/444164-7941871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7941/444164-7941871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "RC Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0805 [2012 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1415081"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10KARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "To Be Advised"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=+3.3V Pin=R8-2
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=R7-2
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=R8-1
+Added Net: Name=NetJP2_2
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R7 10K Ohm
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R8 10K Ohm

@@ -1,0 +1,160 @@
+Removed Pin From Net: NetName=+5V Pin=Q1-3
+Removed Pin From Net: NetName=+5V Pin=Q2-3
+Removed Pin From Net: NetName=+5V Pin=Q3-3
+Removed Pin From Net: NetName=+5V Pin=Q4-3
+Added Component: Designator=R11(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-07560RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 55 C to + 155 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Thick Film Resistors General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "560 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "266046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-560ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-07560RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 55 C to + 155 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Thick Film Resistors General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "560 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "266046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-560ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-07560RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 55 C to + 155 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Thick Film Resistors General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "560 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "266046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-560ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12656/rc0805-12656805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941977.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491354.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7941/442941-7941978.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491355.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/2491/pyu-r-int-thick-7-2491356.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/17044/rc0805-17044479.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-07560RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 55 C to + 155 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Thick Film Resistors General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "560 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "266046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-560ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R11-1
+Added Pin To Net: NetName=+5V Pin=R12-1
+Added Pin To Net: NetName=+5V Pin=R13-1
+Added Pin To Net: NetName=+5V Pin=R14-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R11-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R12-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R13-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R14-2
+Added Net: Name=NetQ4_3
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R11 1k Ohm
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R12 1k Ohm
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R13 1k Ohm
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R14 1k Ohm

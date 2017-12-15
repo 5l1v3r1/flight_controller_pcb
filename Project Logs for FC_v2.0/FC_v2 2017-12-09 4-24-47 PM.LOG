@@ -1,0 +1,5 @@
+Added Component: Designator=LIPO(LIPO_11.1V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+11.1V Pin=LIPO-1
+Added Pin To Net: NetName=GND Pin=LIPO-2
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component LIPO LIPO_11.1V

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=U2-1
+Added Pin To Net: NetName=SHDN Pin=U2-1
+Added Pin To Net: NetName=SHDN Pin=U3-8
+Added Net: Name=SHDN

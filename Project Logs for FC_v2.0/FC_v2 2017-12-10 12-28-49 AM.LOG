@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=BOOT0 Pin=JP2-1
+Removed Pin From Net: NetName=BOOT1 Pin=JP2-2
+Added Pin To Net: NetName=+3.3V Pin=JP2-1
+Added Pin To Net: NetName=+3.3V Pin=JP2-2
+Added Pin To Net: NetName=BOOT0 Pin=JP2-3
+Added Pin To Net: NetName=BOOT1 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=R1-2
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=NetJP2_6 Pin=JP2-6
+Added Pin To Net: NetName=NetJP2_6 Pin=R2-2
+Added Net: Name=NetJP2_6
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component C3 0.1uF
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component JP2 HDR BOOT
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component JP10 HDR RST

@@ -1,0 +1,161 @@
+Added Component: Designator=C20(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10000000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/25798/cl21a106koqnnne-25798133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/25798/cl21a106koqnnne-25798133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16740/cl05b104kq5nnnc-16740697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16740/cl05b104kq5nnnc-16740697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15216/getdatasheetpartid-358435-15216234.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15216/getdatasheetpartid-358435-15216234.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21A106KOQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.21, 10=0.149, 100=0.0702, 500=0.0492, 1000=0.0408 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "508450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1096-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10 %"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10000000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/25798/cl21a106koqnnne-25798133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/25798/cl21a106koqnnne-25798133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16740/cl05b104kq5nnnc-16740697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16740/cl05b104kq5nnnc-16740697.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15216/getdatasheetpartid-358435-15216234.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15216/getdatasheetpartid-358435-15216234.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21A106KOQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.21, 10=0.149, 100=0.0702, 500=0.0492, 1000=0.0408 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "508450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1096-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10 %"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7983/444164-7983765.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7983/444164-7983765.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7941/444164-7941870.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7941/444164-7941870.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7941/444164-7941871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7941/444164-7941871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.019, 100=0.0076, 1000=0.0034, 2500=0.003 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "RC Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0805 [2012 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1415081"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10KARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "To Be Advised"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "Thick Film Resistor Side"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519729.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519729.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519730.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519730.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/12575/rc0805-257173-12575493.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/12575/rc0805-257173-12575493.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/17423/rc0805-17423177.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/17423/rc0805-17423177.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "Download from Accelerated Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Chip Resistor - Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HTML Datasheet"; Value = "RC Series, L Suffix Datasheet.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "PHC6A-KIT-ND  - RESISTOR KIT 100K-1M 1/8W PHC6-KIT-ND  - RESISTOR KIT 100K-1M 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-07324KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "RC0805 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "311-324KCRCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)   "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Other"; Value = "RC/AC 0603/0805/1206 22/Jan/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.022, 100=0.0088, 1000=0.004, 2500=0.0034 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "3.24k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "35782"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-324KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DCQ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046161.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046161.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046162.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046162.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26176/tl1963a-25-26176569.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26176/tl1963a-25-26176569.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage (Min)"; Value = "1.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Line Regulation"; Value = "10mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Regulation"; Value = "20mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TL1963A-33DCQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-40C to 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5 +Tab"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity Type"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.95, 10=2.648, 100=2.1692, 500=1.8466, 1000=1.5574 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Regulator Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-24534-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Regulator Type"; Value = "LDO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+5V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=SHDN Pin=U4-1
+Added Pin To Net: NetName=NetC8_1 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=+5V Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-6
+Change Net Name : Old Net Name=NetC8_1 New Net Name=D1_S
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=U4-5
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component C20 10uF
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component C21 10uF
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R5 10K Ohm
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component R6 3.24k Ohm
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component U4 TL1963A-33DCQR

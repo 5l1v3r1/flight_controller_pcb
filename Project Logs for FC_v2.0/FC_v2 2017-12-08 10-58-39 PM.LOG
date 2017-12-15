@@ -1,0 +1,40 @@
+Added Component: Designator=U2(DCQ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046161.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046161.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046162.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046162.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2046/tl1963a-2046163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26176/tl1963a-25-26176569.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26176/tl1963a-25-26176569.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage (Min)"; Value = "1.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Line Regulation"; Value = "10mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Regulation"; Value = "20mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TL1963A-33DCQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-40C to 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5 +Tab"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity Type"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.95, 10=2.648, 100=2.1692, 500=1.8466, 1000=1.5574 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Regulator Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-24534-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Regulator Type"; Value = "LDO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SHDN Pin=U2-1
+Added Pin To Net: NetName=NetC8_1 Pin=U2-2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=+3.3V Pin=U2-4
+Added Pin To Net: NetName=+3.3V Pin=U2-5
+Added Pin To Net: NetName=NetU2_3 Pin=U2-6
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component U2 TL1963A-33DCQR

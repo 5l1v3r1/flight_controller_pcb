@@ -1,0 +1,43 @@
+Change Component Comment : Designator=R6 Old Comment=3.24k Ohm New Comment=3.16k Ohm
+Change component parameters: Designator = "R6"; Footprint = "R0805"; UniqueID = "\CXBECPPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2457/pyu-r-int-thick-7-2457284.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2457/pyu-r-int-thick-7-2457284.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2457/pyu-r-int-thick-7-2457285.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2457/pyu-r-int-thick-7-2457285.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2457/pyu-r-int-thick-7-2457286.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2457/pyu-r-int-thick-7-2457286.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/12577/rc0805-12577436.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/12577/rc0805-12577436.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-073K16L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "- 55 C to + 155 C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.022, 100=0.0088, 1000=0.004, 2500=0.0034 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "Thick Film Resistors General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3.16 kOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "66271"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-3.16KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "General Purpose Chip Resistor Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Weight"; Value = "0.000194 oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25 mm"; VariantName = "[No Variations]"
+Added Component: Designator=POWER(JTS_11.1V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+11.1V Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component POWER JTS_11.1V

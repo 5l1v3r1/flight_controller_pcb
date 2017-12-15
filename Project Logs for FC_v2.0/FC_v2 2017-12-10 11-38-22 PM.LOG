@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NRST Pin=JP10-1
+Removed Pin From Net: NetName=GND Pin=JP10-2
+Removed Member From Class: ClassName=FC_v2.0_Schematic Member=JP10

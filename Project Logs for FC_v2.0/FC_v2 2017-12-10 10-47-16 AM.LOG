@@ -1,0 +1,22 @@
+Added Component: Designator=C23(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/25737/cl21b104koannnc-25737216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/25737/cl21b104koannnc-25737216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16428/cl21b104koannnc-16428868.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16428/cl21b104koannnc-16428868.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21B104KOANNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.03, 100=0.0133, 500=0.0095, 1000=0.0074 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "97502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-2448-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10 %"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=+3.3V Pin=U3-1
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component C23 0.1uF
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component U2 TL1963A-33DCQR

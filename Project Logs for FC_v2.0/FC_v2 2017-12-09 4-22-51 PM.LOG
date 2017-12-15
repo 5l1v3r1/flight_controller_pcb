@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+11.1V Pin=POWER1-1
+Removed Pin From Net: NetName=GND Pin=POWER1-2
+Removed Pin From Net: NetName=+11.1V Pin=POWER-1
+Removed Pin From Net: NetName=GND Pin=POWER-2
+Removed Member From Class: ClassName=FC_v2.0_Schematic Member=POWER1
+Removed Member From Class: ClassName=FC_v2.0_Schematic Member=POWER
+Added Component: Designator=JTS(JTS_11.1V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+11.1V Pin=JTS-1
+Added Pin To Net: NetName=GND Pin=JTS-2
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component JTS JTS_11.1V

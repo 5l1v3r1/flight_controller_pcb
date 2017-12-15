@@ -1,0 +1,32 @@
+Added Component: Designator=U1(LGA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Sensors, Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ICM-20602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "I²C, SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=5.72, 5=5.05, 10=4.46, 25=3.6184, 50=3.1978, 100=3.1136, 500=2.6087, 1000=2.4404 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "Accelerometer, Gyroscope, Temperature, 6 Axis"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1428-1060-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=U1-1
+Added Pin To Net: NetName=SCLK Pin=U1-2
+Added Pin To Net: NetName=MOSI Pin=U1-3
+Added Pin To Net: NetName=MISO Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=INT Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=NetC5_1 Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=+3.3V Pin=U1-16
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component JP7 HDR ESC
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component U1 ICM-20602

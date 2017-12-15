@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TIM8_CH1 Pin=Q5-2
+Removed Pin From Net: NetName=TIM8_CH4 Pin=Q6-2
+Removed Pin From Net: NetName=TIM8_CH2 Pin=Q7-2
+Removed Pin From Net: NetName=TIM8_CH3 Pin=Q8-2
+Added Pin To Net: NetName=TIM8_CH4 Pin=Q5-2
+Added Pin To Net: NetName=TIM8_CH1 Pin=Q6-2
+Added Pin To Net: NetName=TIM8_CH3 Pin=Q7-2
+Added Pin To Net: NetName=TIM8_CH2 Pin=Q8-2
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component C4 10nF
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component C6 2.2uF

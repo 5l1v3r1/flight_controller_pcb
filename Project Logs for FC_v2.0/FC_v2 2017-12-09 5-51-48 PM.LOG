@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TIM1_CH1 Pin=Q1-1
+Removed Pin From Net: NetName=TIM1_CH4 Pin=Q3-1
+Added Pin To Net: NetName=TIM1_CH4 Pin=Q1-1
+Added Pin To Net: NetName=TIM1_CH1 Pin=Q3-1
+Added Member To Class: ClassName=FC_v2.0_Schematic Member=Component JP9 HDR ST_LINK
