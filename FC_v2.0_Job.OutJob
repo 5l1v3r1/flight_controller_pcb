@@ -147,7 +147,7 @@ OutputDocumentPath7=
 OutputVariantName7=
 OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
-OutputEnabled7_OutputMedium2=1
+OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=1
 OutputEnabled7_OutputMedium4=0
 OutputDefault7=0
@@ -157,15 +157,19 @@ Configuration7_Item1=CaptionAsName
 Configuration7_Name2=Filter
 Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration7_Name3=General
-Configuration7_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\pasindu\Google Drive\University\Projects\Flight Controller\flight_controller_v1.2\FC_v2.0_Externals\BOM\FC_v1.0_Reference_Group_BOM.xls|BatchMode=5|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration7_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD17\Templates\BOM Supplier Links.XLT|BatchMode=5|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration7_Name4=GroupOrder
-Configuration7_Item4=
+Configuration7_Item4=Manufacturer Part Number 1=True
 Configuration7_Name5=OutputConfigurationParameter1
 Configuration7_Item5=??À???
-Configuration7_Name6=SortOrder
-Configuration7_Item6=Manufacturer Part Number 1=Up
-Configuration7_Name7=VisibleOrder
-Configuration7_Item7=Description=100|Manufacturer Part Number 1=100|Designator=100|Footprint=100|LibRef=100|Packaging=100|Quantity=100|Supplier Subtotal 1=100|Supplier Unit Price 1=100
+Configuration7_Name6=PCBDocument
+Configuration7_Item6=FileName=FC_v2.0_PCB.PcbDoc
+Configuration7_Name7=PCBDocument2
+Configuration7_Item7=FileName=[PCB Document 1]
+Configuration7_Name8=SortOrder
+Configuration7_Item8=Designator=Up
+Configuration7_Name9=VisibleOrder
+Configuration7_Item9=Description=117|Manufacturer Part Number 1=138|Designator=112|Quantity=112|Supplier Subtotal 1=112|Supplier Unit Price 1=109
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
@@ -195,7 +199,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\pasindu\Google Drive\University\Projects\Flight Controller\flight_controller_v1.2\FC_v2.0\Project Outputs for FC_v2.0\
+OutputFilePath3=D:\Projects\Flight_Controller\flight_controller_v2.0\FC_v2.0\Project Outputs for FC_v2.0\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for FC_v2.0
 OutputPathMedia3=
@@ -249,7 +253,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=Project Outputs for Free Documents\.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\pasindu\Google Drive\University\Projects\Flight Controller\flight_controller_v1.2\FC_v2.0\Project Outputs for FC_v2.0\
+RelativeOutputPath3=D:\Projects\Flight_Controller\flight_controller_v2.0\FC_v2.0\Project Outputs for FC_v2.0\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

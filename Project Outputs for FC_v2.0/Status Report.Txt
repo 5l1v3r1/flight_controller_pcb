@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:37:24 PM On 2017-12-13
+Start Output Generation At 10:01:25 PM On 2017-12-20
 
 Output: FC_v2.0_BOM
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [FC_v2.0.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:37:37 PM On 2017-12-13
+Finished Output Generation At 10:01:45 PM On 2017-12-20
